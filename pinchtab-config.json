@@ -1,0 +1,15 @@
+{
+  "port": "9867",
+  "instancePortStart": 9868,
+  "instancePortEnd": 9968,
+  "stateDir": "C:\\Users\\董亚鹏\\AppData\\Roaming\\pinchtab",
+  "profileDir": "C:\\Users\\董亚鹏\\AppData\\Roaming\\pinchtab\\chrome-profile",
+  "headless": false,
+  "noRestore": false,
+  "timeoutSec": 60,
+  "navigateSec": 90,
+  "browser": {
+    "executablePath": "D:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  "debug": true
+}
